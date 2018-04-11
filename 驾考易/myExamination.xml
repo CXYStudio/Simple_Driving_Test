@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>1 驾驶机动车在道路上违反道路交通安全法的行为，属于什么行为？
+	A：违章行为
+	B：违法行为
+	C：过失行为
+	D：违规行为</string>
+	<string>2 机动车驾驶人违法驾驶造成重大交通事故构成犯罪的，依法追究什么责任？
+	A：刑事责任
+	B：民事责任
+	C：经济责任
+	D：直接责任</string>
+	<string>3 机动车驾驶人造成事故后逃逸构成犯罪的，吊销驾驶证且多长时间不得重新取得驾驶证？
+	A：5年内
+	B：10年内
+	C：终生
+	D：20年内</string>
+	<string>4 驾驶机动车违反道路交通安全法律法规发生交通事故属于交通违章行为。
+	A：正确
+	B：错误</string>
+	<string>5 驾驶机动车在道路上违反道路通行规定应当接受相应的处罚。
+	A：正确
+	B：错误</string>
+</array>
+</plist>

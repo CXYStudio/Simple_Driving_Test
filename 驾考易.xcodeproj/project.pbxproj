@@ -15,6 +15,24 @@
 		1E91D6481EF25DFE009381DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E91D6461EF25DFE009381DB /* LaunchScreen.storyboard */; };
 		1E91D6531EF25DFE009381DB /* ___Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E91D6521EF25DFE009381DB /* ___Tests.m */; };
 		1E91D65E1EF25DFE009381DB /* ___UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E91D65D1EF25DFE009381DB /* ___UITests.m */; };
+		1EA635221EF65CE0009CC847 /* DrivingTestSubTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EA635211EF65CE0009CC847 /* DrivingTestSubTestViewController.m */; };
+		1EA635251EF65D80009CC847 /* DrivingTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EA635241EF65D80009CC847 /* DrivingTestViewController.m */; };
+		1EA6352A1EF65E0A009CC847 /* InquireViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EA635291EF65E0A009CC847 /* InquireViewController.m */; };
+		1EA6352D1EF65E23009CC847 /* BuyCarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EA6352C1EF65E23009CC847 /* BuyCarViewController.m */; };
+		1EA635301EF65E35009CC847 /* CommunityViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EA6352F1EF65E35009CC847 /* CommunityViewController.m */; };
+		1EA635331EF65F07009CC847 /* SettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EA635321EF65F07009CC847 /* SettingViewController.m */; };
+		1EA635351EF6923B009CC847 /* myRule.xml in Resources */ = {isa = PBXBuildFile; fileRef = 1EA635341EF6923B009CC847 /* myRule.xml */; };
+		1EA635381EF69A72009CC847 /* InquireSubViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EA635371EF69A72009CC847 /* InquireSubViewController.m */; };
+		1EA6353A1EF6A57F009CC847 /* myTechnique.xml in Resources */ = {isa = PBXBuildFile; fileRef = 1EA635391EF6A57F009CC847 /* myTechnique.xml */; };
+		1EA635411EF6A672009CC847 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EA6353D1EF6A672009CC847 /* 1.png */; };
+		1EA635421EF6A672009CC847 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EA6353E1EF6A672009CC847 /* 2.png */; };
+		1EA635431EF6A672009CC847 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EA6353F1EF6A672009CC847 /* 3.png */; };
+		1EA635441EF6A672009CC847 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EA635401EF6A672009CC847 /* 4.png */; };
+		1EA635461EF6A729009CC847 /* mySymbol.xml in Resources */ = {isa = PBXBuildFile; fileRef = 1EA635451EF6A729009CC847 /* mySymbol.xml */; };
+		1EA635491EF6B1AC009CC847 /* DrivingTestSubPracticeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EA635481EF6B1AC009CC847 /* DrivingTestSubPracticeViewController.m */; };
+		1EA6354C1EF6B1DB009CC847 /* DrivingTestGradeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EA6354B1EF6B1DB009CC847 /* DrivingTestGradeViewController.m */; };
+		1EA6354E1EF6C36C009CC847 /* myExamination.xml in Resources */ = {isa = PBXBuildFile; fileRef = 1EA6354D1EF6C36C009CC847 /* myExamination.xml */; };
+		1EA635501EF6C5BC009CC847 /* myExamStandard Answer.xml in Resources */ = {isa = PBXBuildFile; fileRef = 1EA6354F1EF6C5BC009CC847 /* myExamStandard Answer.xml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +69,33 @@
 		1E91D6591EF25DFE009381DB /* 驾考易UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "驾考易UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E91D65D1EF25DFE009381DB /* ___UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "___UITests.m"; sourceTree = "<group>"; };
 		1E91D65F1EF25DFE009381DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1EA635201EF65CE0009CC847 /* DrivingTestSubTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrivingTestSubTestViewController.h; sourceTree = "<group>"; };
+		1EA635211EF65CE0009CC847 /* DrivingTestSubTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrivingTestSubTestViewController.m; sourceTree = "<group>"; };
+		1EA635231EF65D80009CC847 /* DrivingTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrivingTestViewController.h; sourceTree = "<group>"; };
+		1EA635241EF65D80009CC847 /* DrivingTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrivingTestViewController.m; sourceTree = "<group>"; };
+		1EA635281EF65E0A009CC847 /* InquireViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InquireViewController.h; sourceTree = "<group>"; };
+		1EA635291EF65E0A009CC847 /* InquireViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InquireViewController.m; sourceTree = "<group>"; };
+		1EA6352B1EF65E23009CC847 /* BuyCarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BuyCarViewController.h; sourceTree = "<group>"; };
+		1EA6352C1EF65E23009CC847 /* BuyCarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BuyCarViewController.m; sourceTree = "<group>"; };
+		1EA6352E1EF65E35009CC847 /* CommunityViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommunityViewController.h; sourceTree = "<group>"; };
+		1EA6352F1EF65E35009CC847 /* CommunityViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommunityViewController.m; sourceTree = "<group>"; };
+		1EA635311EF65F07009CC847 /* SettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingViewController.h; sourceTree = "<group>"; };
+		1EA635321EF65F07009CC847 /* SettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingViewController.m; sourceTree = "<group>"; };
+		1EA635341EF6923B009CC847 /* myRule.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = myRule.xml; sourceTree = "<group>"; };
+		1EA635361EF69A72009CC847 /* InquireSubViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InquireSubViewController.h; sourceTree = "<group>"; };
+		1EA635371EF69A72009CC847 /* InquireSubViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InquireSubViewController.m; sourceTree = "<group>"; };
+		1EA635391EF6A57F009CC847 /* myTechnique.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = myTechnique.xml; sourceTree = "<group>"; };
+		1EA6353D1EF6A672009CC847 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		1EA6353E1EF6A672009CC847 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		1EA6353F1EF6A672009CC847 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		1EA635401EF6A672009CC847 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		1EA635451EF6A729009CC847 /* mySymbol.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = mySymbol.xml; sourceTree = "<group>"; };
+		1EA635471EF6B1AC009CC847 /* DrivingTestSubPracticeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrivingTestSubPracticeViewController.h; sourceTree = "<group>"; };
+		1EA635481EF6B1AC009CC847 /* DrivingTestSubPracticeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrivingTestSubPracticeViewController.m; sourceTree = "<group>"; };
+		1EA6354A1EF6B1DB009CC847 /* DrivingTestGradeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrivingTestGradeViewController.h; sourceTree = "<group>"; };
+		1EA6354B1EF6B1DB009CC847 /* DrivingTestGradeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrivingTestGradeViewController.m; sourceTree = "<group>"; };
+		1EA6354D1EF6C36C009CC847 /* myExamination.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = myExamination.xml; sourceTree = "<group>"; };
+		1EA6354F1EF6C5BC009CC847 /* myExamStandard Answer.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "myExamStandard Answer.xml"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +148,8 @@
 			children = (
 				1E91D63B1EF25DFE009381DB /* AppDelegate.h */,
 				1E91D63C1EF25DFE009381DB /* AppDelegate.m */,
+				1EA635261EF65D8C009CC847 /* Sub */,
+				1EA635271EF65DB3009CC847 /* View */,
 				1E91D63E1EF25DFE009381DB /* ViewController.h */,
 				1E91D63F1EF25DFE009381DB /* ViewController.m */,
 				1E91D6411EF25DFE009381DB /* Main.storyboard */,
@@ -117,6 +164,8 @@
 		1E91D6381EF25DFE009381DB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1EA6353C1EF6A616009CC847 /* Picture */,
+				1EA6353B1EF6A606009CC847 /* XML */,
 				1E91D6391EF25DFE009381DB /* main.m */,
 			);
 			name = "Supporting Files";
@@ -138,6 +187,61 @@
 				1E91D65F1EF25DFE009381DB /* Info.plist */,
 			);
 			path = "驾考易UITests";
+			sourceTree = "<group>";
+		};
+		1EA635261EF65D8C009CC847 /* Sub */ = {
+			isa = PBXGroup;
+			children = (
+				1EA635201EF65CE0009CC847 /* DrivingTestSubTestViewController.h */,
+				1EA635211EF65CE0009CC847 /* DrivingTestSubTestViewController.m */,
+				1EA635471EF6B1AC009CC847 /* DrivingTestSubPracticeViewController.h */,
+				1EA635481EF6B1AC009CC847 /* DrivingTestSubPracticeViewController.m */,
+				1EA6354A1EF6B1DB009CC847 /* DrivingTestGradeViewController.h */,
+				1EA6354B1EF6B1DB009CC847 /* DrivingTestGradeViewController.m */,
+				1EA635361EF69A72009CC847 /* InquireSubViewController.h */,
+				1EA635371EF69A72009CC847 /* InquireSubViewController.m */,
+			);
+			name = Sub;
+			sourceTree = "<group>";
+		};
+		1EA635271EF65DB3009CC847 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				1EA635231EF65D80009CC847 /* DrivingTestViewController.h */,
+				1EA635241EF65D80009CC847 /* DrivingTestViewController.m */,
+				1EA635281EF65E0A009CC847 /* InquireViewController.h */,
+				1EA635291EF65E0A009CC847 /* InquireViewController.m */,
+				1EA6352B1EF65E23009CC847 /* BuyCarViewController.h */,
+				1EA6352C1EF65E23009CC847 /* BuyCarViewController.m */,
+				1EA6352E1EF65E35009CC847 /* CommunityViewController.h */,
+				1EA6352F1EF65E35009CC847 /* CommunityViewController.m */,
+				1EA635311EF65F07009CC847 /* SettingViewController.h */,
+				1EA635321EF65F07009CC847 /* SettingViewController.m */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		1EA6353B1EF6A606009CC847 /* XML */ = {
+			isa = PBXGroup;
+			children = (
+				1EA6354F1EF6C5BC009CC847 /* myExamStandard Answer.xml */,
+				1EA6354D1EF6C36C009CC847 /* myExamination.xml */,
+				1EA635451EF6A729009CC847 /* mySymbol.xml */,
+				1EA635391EF6A57F009CC847 /* myTechnique.xml */,
+				1EA635341EF6923B009CC847 /* myRule.xml */,
+			);
+			name = XML;
+			sourceTree = "<group>";
+		};
+		1EA6353C1EF6A616009CC847 /* Picture */ = {
+			isa = PBXGroup;
+			children = (
+				1EA6353D1EF6A672009CC847 /* 1.png */,
+				1EA6353E1EF6A672009CC847 /* 2.png */,
+				1EA6353F1EF6A672009CC847 /* 3.png */,
+				1EA635401EF6A672009CC847 /* 4.png */,
+			);
+			name = Picture;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -202,11 +306,12 @@
 		1E91D62D1EF25DFE009381DB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0830;
+				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = "曹修远";
 				TargetAttributes = {
 					1E91D6341EF25DFE009381DB = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = ZZHCQZ2PG3;
 						ProvisioningStyle = Automatic;
 					};
 					1E91D64D1EF25DFE009381DB = {
@@ -246,9 +351,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1EA635441EF6A672009CC847 /* 4.png in Resources */,
 				1E91D6481EF25DFE009381DB /* LaunchScreen.storyboard in Resources */,
 				1E91D6451EF25DFE009381DB /* Assets.xcassets in Resources */,
+				1EA635421EF6A672009CC847 /* 2.png in Resources */,
+				1EA6354E1EF6C36C009CC847 /* myExamination.xml in Resources */,
+				1EA635431EF6A672009CC847 /* 3.png in Resources */,
+				1EA635501EF6C5BC009CC847 /* myExamStandard Answer.xml in Resources */,
 				1E91D6431EF25DFE009381DB /* Main.storyboard in Resources */,
+				1EA635411EF6A672009CC847 /* 1.png in Resources */,
+				1EA6353A1EF6A57F009CC847 /* myTechnique.xml in Resources */,
+				1EA635351EF6923B009CC847 /* myRule.xml in Resources */,
+				1EA635461EF6A729009CC847 /* mySymbol.xml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,7 +387,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1EA635301EF65E35009CC847 /* CommunityViewController.m in Sources */,
 				1E91D6401EF25DFE009381DB /* ViewController.m in Sources */,
+				1EA635491EF6B1AC009CC847 /* DrivingTestSubPracticeViewController.m in Sources */,
+				1EA635221EF65CE0009CC847 /* DrivingTestSubTestViewController.m in Sources */,
+				1EA635381EF69A72009CC847 /* InquireSubViewController.m in Sources */,
+				1EA6352A1EF65E0A009CC847 /* InquireViewController.m in Sources */,
+				1EA6352D1EF65E23009CC847 /* BuyCarViewController.m in Sources */,
+				1EA635331EF65F07009CC847 /* SettingViewController.m in Sources */,
+				1EA6354C1EF6B1DB009CC847 /* DrivingTestGradeViewController.m in Sources */,
+				1EA635251EF65D80009CC847 /* DrivingTestViewController.m in Sources */,
 				1E91D63D1EF25DFE009381DB /* AppDelegate.m in Sources */,
 				1E91D63A1EF25DFE009381DB /* main.m in Sources */,
 			);
@@ -340,15 +463,23 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -389,15 +520,23 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -426,6 +565,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZZHCQZ2PG3;
 				INFOPLIST_FILE = "驾考易/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "cxy.---";
@@ -437,6 +577,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZZHCQZ2PG3;
 				INFOPLIST_FILE = "驾考易/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "cxy.---";
@@ -509,6 +650,7 @@
 				1E91D6641EF25DFE009381DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1E91D6651EF25DFE009381DB /* Build configuration list for PBXNativeTarget "驾考易Tests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +659,7 @@
 				1E91D6671EF25DFE009381DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1E91D6681EF25DFE009381DB /* Build configuration list for PBXNativeTarget "驾考易UITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +668,7 @@
 				1E91D66A1EF25DFE009381DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
